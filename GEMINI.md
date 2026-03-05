@@ -39,6 +39,8 @@
 - [x] **2026-03-04:** Implemented Email CTA functionality (Hero, Sidebar, Footer).
 - [x] **2026-03-04:** Optimized sidebar "Fast Quote" layout for vertical CTA stacking.
 - [x] **2026-03-04:** Refactored `src/style.css` to remove deprecated `@screen` directives and fix build warnings.
+- [x] **2026-03-04:** Initialized Git repository and pushed to GitHub.
+- [x] **2026-03-04:** Configured and deployed live site to GitHub Pages via GitHub Actions.
 
 ## Developement Preferences
 -Stay organized and keep things neat
